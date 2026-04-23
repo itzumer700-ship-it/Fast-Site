@@ -156,19 +156,19 @@ const demoSites = [
   {
     title: "Portfolio Website",
     description: "Creative portfolio showcasing design work with smooth animations and modern layout",
-    url: "https://ahmed-portfolio-websitedeveloper.netlify.app/",
+    url: "https://any-website-builder.edgeone.dev/",
     category: "Portfolio"
   },
   {
     title: "Restaurant Website",
     description: "Elegant restaurant site with menu, ambiance photos, and reservation system",
-    url: "https://red-lantern.netlify.app/",
+    url: "https://red-lantern.edgeone.dev/",
     category: "Restaurant"
   },
   {
     title: "Online Clothing Store",
     description: "A premium clothing website offering the latest Gen-Z fashion trends and styles",
-    url: "https://nova-drift.netlify.app/",
+    url: "https://nova-drift.edgeone.dev/",
     category: "Store"
   }
 ];
