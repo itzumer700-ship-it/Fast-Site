@@ -186,7 +186,7 @@ function App() {
   };
 
   const openGoogleForm = () => {
-    window.open('https://forms.gle/May3HzFkBrtmSSuG8', '_blank');
+    window.open('https://forms.gle/JzqY3Ly7dzEPgdWf6', '_blank');
   };
 
   useEffect(() => {
