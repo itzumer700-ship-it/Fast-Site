@@ -154,6 +154,12 @@ const testimonials = [
 
 const demoSites = [
   {
+    title: "Luxora Photography",
+    description: "Professional photography booking platform with portfolio gallery and project showcase",
+    url: "https://luxora.edgeone.app/",
+    category: "Photography"
+  },
+  {
     title: "Portfolio Website",
     description: "Creative portfolio showcasing design work with smooth animations and modern layout",
     url: "https://any-website-builder.edgeone.dev/",
@@ -170,6 +176,18 @@ const demoSites = [
     description: "A premium clothing website offering the latest Gen-Z fashion trends and styles",
     url: "https://nova-drift.edgeone.dev/",
     category: "Store"
+  },
+  {
+    title: "SkillForge Course Landing",
+    description: "Professional course platform designed to sell online courses and teach people how to earn money",
+    url: "https://skillforge-course.edgeone.app/",
+    category: "Courses"
+  },
+  {
+    title: "Lumina Dental",
+    description: "Modern dental practice website with appointment booking and service information",
+    url: "https://luminadental.edgeone.app/",
+    category: "Dental"
   }
 ];
 
